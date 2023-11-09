@@ -8,8 +8,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW008-full.png"
       }
     ],
     "regions": [
@@ -58,8 +58,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW008T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW008T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW008T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW008T3-full.png"
       }
     ],
     "regions": [
@@ -114,8 +114,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW008T1-full.png"
       }
     ],
     "regions": [
@@ -167,8 +167,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW008T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW008T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW008T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW008T5-full.png"
       }
     ],
     "regions": [
@@ -219,8 +219,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW032.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW032-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW032-full.png"
       }
     ],
     "regions": [
@@ -273,8 +273,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW015-full.png"
       }
     ],
     "regions": [
@@ -319,8 +319,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW002-full.png"
       }
     ],
     "regions": [
@@ -371,8 +371,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW025-full.png"
       }
     ],
     "regions": [
@@ -384,8 +384,8 @@
     "attack": 2,
     "cost": 1,
     "health": 1,
-    "description": "このゲーム中に1ラウンドで3枚以上のカードをプレイしている場合、このユニットに+1|+1と<link=keyword.Brash><sprite name=Brash><style=Keyword>ブラッシュ</style></link>を付与する。",
-    "descriptionRaw": "このゲーム中に1ラウンドで3枚以上のカードをプレイしている場合、このユニットに+1|+1とブラッシュを付与する。",
+    "description": "このゲーム中に1ラウンドで3枚以上のカードを引いたことがある場合、このユニットに+1|+1と<link=keyword.Brash><sprite name=Brash><style=Keyword>ブラッシュ</style></link>を付与する。",
+    "descriptionRaw": "このゲーム中に1ラウンドで3枚以上のカードを引いたことがある場合、このユニットに+1|+1とブラッシュを付与する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「なんの騒ぎだか知らねえが、一体何をそんなに慌ててんだ？この海に俺たちの手に余るものなんてありゃしねえさ！」<br>- 飽くなき挑戦者",
@@ -417,8 +417,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW026-full.png"
       }
     ],
     "regions": [
@@ -429,7 +429,7 @@
     ],
     "attack": 2,
     "cost": 4,
-    "health": 1,
+    "health": 2,
     "description": "召喚時、手札をすべて<link=vocab.Updraft><style=Vocab>アップドラフト</style></link>し、<link=vocab.Updraft><style=Vocab>アップドラフト</style></link>したカード1枚につきこのユニットに+1|+1を付与する。カードを2枚引く。",
     "descriptionRaw": "召喚時、手札をすべてアップドラフトし、アップドラフトしたカード1枚につきこのユニットに+1|+1を付与する。カードを2枚引く。",
     "levelupDescription": "",
@@ -468,8 +468,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW028-full.png"
       }
     ],
     "regions": [
@@ -520,8 +520,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW028T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW028T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW028T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW028T4-full.png"
       }
     ],
     "regions": [
@@ -576,8 +576,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW028T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW028T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW028T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW028T3-full.png"
       }
     ],
     "regions": [
@@ -626,8 +626,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW028T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW028T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW028T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW028T1-full.png"
       }
     ],
     "regions": [
@@ -680,8 +680,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW028T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW028T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW028T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW028T2-full.png"
       }
     ],
     "regions": [
@@ -734,8 +734,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW009-full.png"
       }
     ],
     "regions": [
@@ -780,8 +780,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW010-full.png"
       }
     ],
     "regions": [
@@ -829,13 +829,66 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW031-full.png"
+      }
+    ],
+    "regions": [
+      "ビルジ<nobr>ウォーター</nobr>"
+    ],
+    "regionRefs": [
+      "Bilgewater"
+    ],
+    "attack": 8,
+    "cost": 8,
+    "health": 7,
+    "description": "他のユニットをプレイするためにマナを消費する時、そのコストと同じランダムなカードを手札に1枚生成する。そのコストは0で、<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>を持つ。",
+    "descriptionRaw": "他のユニットをプレイするためにマナを消費する時、そのコストと同じランダムなカードを手札に1枚生成する。そのコストは0で、フリーティングを持つ。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ビルジウォーターの人々はどんな奇怪な海獣をも平らげるほど貪欲だが、経験豊富な船乗りでさえ決して手を出さない海獣も中には存在する。船乗りたちは声を潜めてその噂を語り合う。深い深い海の底、沈んだ船と船員どもの巨大な墓と化したそれは、仄明るい光を揺らしながら、今も獲物を誘っているのだと…",
+    "artistName": "Envar Studio",
+    "name": "深海の災厄 セフィルサ",
+    "cardCode": "08BW031",
+    "keywords": [
+      "ディープ"
+    ],
+    "keywordRefs": [
+      "Deep"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "エピック",
+    "rarityRef": "Epic",
+    "subtypes": [
+      "海獣",
+      "ドラゴン"
+    ],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": true,
+    "set": "Set8",
+    "formats": [
+      "エターナル",
+      "スタンダード"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "08BW008T3"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW023.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BW023-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BW023-full.png"
       }
     ],
     "regions": [
@@ -888,8 +941,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ007-full.png"
       }
     ],
     "regions": [
@@ -940,8 +993,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ005-full.png"
       }
     ],
     "regions": [
@@ -992,8 +1045,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ019-full.png"
       }
     ],
     "regions": [
@@ -1005,8 +1058,8 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "このラウンド中にカードを3枚以上引いている場合、コストが2減少する。\r\nユニット1体に3ダメージと、敵のネクサスに2ダメージを与える。",
-    "descriptionRaw": "このラウンド中にカードを3枚以上引いている場合、コストが2減少する。\r\nユニット1体に3ダメージと、敵のネクサスに2ダメージを与える。",
+    "description": "このラウンド中にカードを3枚以上引いている場合、コストが2減少する。\r\nユニット1体に3ダメージと、敵のネクサスに1ダメージを与える。",
+    "descriptionRaw": "このラウンド中にカードを3枚以上引いている場合、コストが2減少する。\r\nユニット1体に3ダメージと、敵のネクサスに1ダメージを与える。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「この嵐は私のしもべ」<br>- ジャンナ",
@@ -1041,14 +1094,62 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ028-full.png"
+      }
+    ],
+    "regions": [
+      "ピルトーヴァー<nobr> & ゾウン</nobr>"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 8,
+    "cost": 8,
+    "health": 6,
+    "description": "スペルをプレイする時、カードを1枚引く。手札がいっぱいの状態でカードを引く時、敵のネクサスに1ダメージを与える。",
+    "descriptionRaw": "スペルをプレイする時、カードを1枚引く。手札がいっぱいの状態でカードを引く時、敵のネクサスに1ダメージを与える。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ゾウンで生きるには、その環境に適応せねばならない。それは龍であっても例外ではなく、ケミテックドレイクは身体拡張によって得た粘り気のある燐光を纏い、地下都市の深部を縄張りとする。腐り落ちた両の翼は暗い通路にさらに暗い影を落とし、異形と果てた憤怒を撒き散らす先を求め彷徨っている。",
+    "artistName": "Caravan Studio",
+    "name": "ケミテックドレイク",
+    "cardCode": "08PZ028",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "エピック",
+    "rarityRef": "Epic",
+    "subtypes": [
+      "ドラゴン"
+    ],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": true,
+    "set": "Set8",
+    "formats": [
+      "エターナル",
+      "スタンダード"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "08PZ001T3",
       "08PZ001T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ001-full.png"
       }
     ],
     "regions": [
@@ -1062,8 +1163,8 @@
     "health": 4,
     "description": "<link=vocab.Play><style=Vocab>プレイ</style></link>: カードを2枚<link=vocab.Updraft><style=Vocab>アップドラフト</style></link>することで、次の<link=vocab.RoundStart><style=Vocab>ラウンド開始時</style></link>にカードを2枚引く。\r\n各ラウンドで最初に引いた3枚目までのカードのコストを、このラウンド中1減少させる。<style=Variable></style>",
     "descriptionRaw": "プレイ: カードを2枚アップドラフトすることで、次のラウンド開始時にカードを2枚引く。\r\n各ラウンドで最初に引いた3枚目までのカードのコストを、このラウンド中1減少させる。",
-    "levelupDescription": "このユニットが場にいる状態で、コストが減少したカードを合計6枚以上プレイした時<style=Variable></style>。",
-    "levelupDescriptionRaw": "このユニットが場にいる状態で、コストが減少したカードを合計6枚以上プレイした時。",
+    "levelupDescription": "このユニットが場にいる状態で、コストが減少したカードを合計8枚以上プレイした時<style=Variable></style>。",
+    "levelupDescriptionRaw": "このユニットが場にいる状態で、コストが減少したカードを合計8枚以上プレイした時。",
     "flavorText": "「ゾウンは他のどこよりジャンナに近い場所だと言っていい。ピルトーヴァーに見捨てられた哀れな魂を救ったのは、結局のところジャンナなんだからな。もしも答えがあるのなら──ここでなら見つけられるはずだ」<br>- 風追いの船乗り",
     "artistName": "Envar Studio",
     "name": "ジャンナ",
@@ -1096,8 +1197,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ001T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ001T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ001T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ001T3-full.png"
       }
     ],
     "regions": [
@@ -1149,8 +1250,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ001T1-full.png"
       }
     ],
     "regions": [
@@ -1203,8 +1304,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ026-full.png"
       }
     ],
     "regions": [
@@ -1255,8 +1356,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ006-full.png"
       }
     ],
     "regions": [
@@ -1305,8 +1406,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ018-full.png"
       }
     ],
     "regions": [
@@ -1355,8 +1456,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ008-full.png"
       }
     ],
     "regions": [
@@ -1401,8 +1502,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ026T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ026T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ026T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ026T1-full.png"
       }
     ],
     "regions": [
@@ -1449,8 +1550,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ009-full.png"
       }
     ],
     "regions": [
@@ -1499,8 +1600,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ002-full.png"
       }
     ],
     "regions": [
@@ -1551,8 +1652,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ008T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ008T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ008T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ008T3-full.png"
       }
     ],
     "regions": [
@@ -1597,8 +1698,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ008T2-full.png"
       }
     ],
     "regions": [
@@ -1643,8 +1744,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08PZ020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08PZ020-full.png"
       }
     ],
     "regions": [
@@ -1695,8 +1796,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR012-full.png"
       }
     ],
     "regions": [
@@ -1747,8 +1848,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR019-full.png"
       }
     ],
     "regions": [
@@ -1803,8 +1904,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR001-full.png"
       }
     ],
     "regions": [
@@ -1849,8 +1950,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR001T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR001T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR001T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR001T3-full.png"
       }
     ],
     "regions": [
@@ -1904,8 +2005,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR001T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR001T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR001T2-full.png"
       }
     ],
     "regions": [
@@ -1960,8 +2061,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR001T1-full.png"
       }
     ],
     "regions": [
@@ -2012,8 +2113,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR018-full.png"
       }
     ],
     "regions": [
@@ -2064,8 +2165,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR011-full.png"
       }
     ],
     "regions": [
@@ -2114,8 +2215,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR008-full.png"
       }
     ],
     "regions": [
@@ -2168,8 +2269,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR015-full.png"
       }
     ],
     "regions": [
@@ -2212,12 +2313,66 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
+      "04FR001"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR030-full.png"
+      }
+    ],
+    "regions": [
+      "フレヨルド"
+    ],
+    "regionRefs": [
+      "Freljord"
+    ],
+    "attack": 8,
+    "cost": 8,
+    "health": 8,
+    "description": "召喚時、<link=card.summon><style=AssociatedCard>氷漬けの奴隷兵</style></link>を2枚召喚し、そのカウントを2まで<link=vocab.Advance><style=Vocab>進行</style></link>させる。",
+    "descriptionRaw": "召喚時、氷漬けの奴隷兵を2枚召喚し、そのカウントを2まで進行させる。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「わ、わ、わしはとんでもないものを見てしまった！奴隷兵どもを覆った氷は黒く焼け、爪の先では雪崩が起き、その咆哮は山脈中の雪を吹き飛ばしてしまったんじゃ！あれは邪悪なもんに違いない！せ、戦士の女王よ！奴隷兵を始末するのは、戦士の女王の責務であるぞ！」<br>- 妄言のビョーグ",
+    "artistName": "Caravan Studio",
+    "name": "黒氷のボアディール",
+    "cardCode": "08FR030",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "エピック",
+    "rarityRef": "Epic",
+    "subtypes": [
+      "ドラゴン"
+    ],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": true,
+    "set": "Set8",
+    "formats": [
+      "コモンオンリー",
+      "エターナル",
+      "イーブンコスト",
+      "スタンダード"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_EvenCostCards_name",
+      "client_Formats_Standard_name"
+    ]
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
       "08FR002T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR002-full.png"
       }
     ],
     "regions": [
@@ -2262,8 +2417,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR002T1-full.png"
       }
     ],
     "regions": [
@@ -2316,8 +2471,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08FR003-full.png"
       }
     ],
     "regions": [
@@ -2364,36 +2519,31 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
-      "08BW028T1",
-      "08BW028T2",
-      "08BW028T3",
-      "08BW028T4"
+      "08NX003T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08DE006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08DE006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08NX003-full.png"
       }
     ],
     "regions": [
-      "デマーシア",
-      "フレヨルド"
+      "ノクサス"
     ],
     "regionRefs": [
-      "Demacia",
-      "Freljord"
+      "Noxus"
     ],
-    "attack": 2,
-    "cost": 3,
-    "health": 3,
-    "description": "<link=vocab.Play><style=Vocab>プレイ</style></link>: 「探検家」のスペルを1枚指定して手札に生成する。",
-    "descriptionRaw": "プレイ: 「探検家」のスペルを1枚指定して手札に生成する。",
+    "attack": 8,
+    "cost": 6,
+    "health": 4,
+    "description": "<link=keyword.Elemental Skill><sprite name=ElementalSkill><style=Keyword>プレイ</style></link>: 敵1体に2ダメージと敵のネクサスに2ダメージを与える。",
+    "descriptionRaw": "プレイ: 敵1体に2ダメージと敵のネクサスに2ダメージを与える。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「空気は凍てつき、体は冷え切っている。ここはとにかく、ありとあらゆるものが熱を失っている。この世には人が住むには適さない場所も存在するということだ。次はどこか暖かいところへ送ってくれ」<br>- 探検家ギルド 最果て支部の探索記録 フレヨルドにて",
+    "flavorText": "ノクサスは領土を拡大し、多様な民と土地と文化を手に入れた。各地に生息する野生の獣は手懐けられ、広く兵器として用いられた。しかし、この龍は他の獣とは全く違った──ノクサス軍が侵略の歩をひとつ進めるたびに、それと同じだけの怒りと炎で大軍に応じた。",
     "artistName": "Envar Studio",
-    "name": "開拓する学徒",
-    "cardCode": "08DE006",
+    "name": "怒れる噴炎龍",
+    "cardCode": "08NX003",
     "keywords": [
       "チャレンジャー"
     ],
@@ -2402,9 +2552,11 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "レア",
-    "rarityRef": "Rare",
-    "subtypes": [],
+    "rarity": "エピック",
+    "rarityRef": "Epic",
+    "subtypes": [
+      "ドラゴン"
+    ],
     "supertype": "",
     "type": "ユニット",
     "collectible": true,
@@ -2420,44 +2572,48 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [],
+    "associatedCardRefs": [
+      "08NX003"
+    ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08DE010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08DE010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08NX003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08NX003T1-full.png"
       }
     ],
     "regions": [
-      "デマーシア"
+      "ノクサス"
     ],
     "regionRefs": [
-      "Demacia"
+      "Noxus"
     ],
     "attack": 0,
-    "cost": 3,
+    "cost": 0,
     "health": 0,
-    "description": "味方1体に+0|+2を付与する。\r\nその味方と敵1体が互いに<link=vocab.Strike><style=Vocab>ストライク</style></link>する。",
-    "descriptionRaw": "味方1体に+0|+2を付与する。\r\nその味方と敵1体が互いにストライクする。",
+    "description": "敵1体に2ダメージと敵のネクサスに2ダメージを与える。",
+    "descriptionRaw": "敵1体に2ダメージと敵のネクサスに2ダメージを与える。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「構えたまえ！君は男同士の決闘を拒むような腰抜けではないだろう？」<br>- ローラン家の騎兵",
-    "artistName": "Kudos Productions",
-    "name": "紳士の決闘",
-    "cardCode": "08DE010",
+    "flavorText": "木も、鉄も、肉も──燃え盛る怒りの前にすべて等しく溶けていった。",
+    "artistName": "Polar Engine",
+    "name": "憤怒の炎",
+    "cardCode": "08NX003T1",
     "keywords": [
-      "ファスト"
+      "エレメンタルスキル"
     ],
     "keywordRefs": [
-      "Fast"
+      "ElementalSkill"
     ],
-    "spellSpeed": "ファスト",
-    "spellSpeedRef": "Fast",
-    "rarity": "コモン",
-    "rarityRef": "Common",
-    "subtypes": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "なし",
+    "rarityRef": "None",
+    "subtypes": [
+      "エレメンタル"
+    ],
     "supertype": "",
-    "type": "スペル",
-    "collectible": true,
+    "type": "スキル",
+    "collectible": false,
     "set": "Set8",
     "formats": [
       "エターナル",
@@ -2473,8 +2629,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08NX011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08NX011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08NX011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08NX011-full.png"
       }
     ],
     "regions": [
@@ -2525,8 +2681,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08NX014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08NX014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08NX014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08NX014-full.png"
       }
     ],
     "regions": [
@@ -2580,8 +2736,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08NX012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08NX012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08NX012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08NX012-full.png"
       }
     ],
     "regions": [
@@ -2626,12 +2782,165 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
+      "08BW028T1",
+      "08BW028T2",
+      "08BW028T3",
+      "08BW028T4"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08DE006-full.png"
+      }
+    ],
+    "regions": [
+      "デマーシア",
+      "フレヨルド"
+    ],
+    "regionRefs": [
+      "Demacia",
+      "Freljord"
+    ],
+    "attack": 2,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>プレイ</style></link>: 「探検家」のスペルを1枚指定して手札に生成する。",
+    "descriptionRaw": "プレイ: 「探検家」のスペルを1枚指定して手札に生成する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「空気は凍てつき、体は冷え切っている。ここはとにかく、ありとあらゆるものが熱を失っている。この世には人が住むには適さない場所も存在するということだ。次はどこか暖かいところへ送ってくれ」<br>- 探検家ギルド 最果て支部の探索記録 フレヨルドにて",
+    "artistName": "Envar Studio",
+    "name": "開拓する学徒",
+    "cardCode": "08DE006",
+    "keywords": [
+      "チャレンジャー"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "レア",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": true,
+    "set": "Set8",
+    "formats": [
+      "エターナル",
+      "スタンダード"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08DE010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08DE010-full.png"
+      }
+    ],
+    "regions": [
+      "デマーシア"
+    ],
+    "regionRefs": [
+      "Demacia"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "このラウンド中、味方1体に+0|+2を付与する。その味方と敵1体が互いに<link=vocab.Strike><style=Vocab>ストライク</style></link>する。",
+    "descriptionRaw": "このラウンド中、味方1体に+0|+2を付与する。その味方と敵1体が互いにストライクする。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「構えたまえ！君は男同士の決闘を拒むような腰抜けではないだろう？」<br>- ローラン家の騎兵",
+    "artistName": "Kudos Productions",
+    "name": "紳士の決闘",
+    "cardCode": "08DE010",
+    "keywords": [
+      "ファスト"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "ファスト",
+    "spellSpeedRef": "Fast",
+    "rarity": "コモン",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "スペル",
+    "collectible": true,
+    "set": "Set8",
+    "formats": [
+      "エターナル",
+      "スタンダード"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08DE022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08DE022-full.png"
+      }
+    ],
+    "regions": [
+      "デマーシア"
+    ],
+    "regionRefs": [
+      "Demacia"
+    ],
+    "attack": 8,
+    "cost": 9,
+    "health": 8,
+    "description": "召喚時、デッキ内の各チャンピオンを1枚引く。\r\n各ラウンド中、初めてチャンピオンを召喚する時、<link=vocab.Rally><style=Vocab>奮起</style></link>する。",
+    "descriptionRaw": "召喚時、デッキ内の各チャンピオンを1枚引く。\r\n各ラウンド中、初めてチャンピオンを召喚する時、奮起する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「息子よ、ゆめゆめ忘れるでないぞ。水平線を目指すべきは、船尾に見える祖国に奉仕する時のみであると」<br>- 国王ジャーヴァン三世",
+    "artistName": "Envar Studio",
+    "name": "キングフィッシャー号",
+    "cardCode": "08DE022",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "エピック",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": true,
+    "set": "Set8",
+    "formats": [
+      "エターナル",
+      "スタンダード"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
       "06RU001T3"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08SI021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08SI021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SI021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SI021-full.png"
       }
     ],
     "regions": [
@@ -2680,8 +2989,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08SI030.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08SI030-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SI030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SI030-full.png"
       }
     ],
     "regions": [
@@ -2731,6 +3040,112 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SI037T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SI037T1-full.png"
+      }
+    ],
+    "regions": [
+      "シャドウ<nobr>アイル</nobr>"
+    ],
+    "regionRefs": [
+      "ShadowIsles"
+    ],
+    "attack": 8,
+    "cost": 6,
+    "health": 4,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "餌となることを拒んだ者は、逃げ出した先の袋小路で、うごめく千の鉄爪を見る。それから実体のない牙が軋む音を聞き、己の無残な死に様を悟る。",
+    "artistName": "Envar Studio",
+    "name": "千爪のデスワインダー",
+    "cardCode": "08SI037T1",
+    "keywords": [
+      "フィアサム"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "なし",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Set8",
+    "formats": [
+      "コモンオンリー",
+      "エターナル",
+      "イーブンコスト",
+      "スタンダード"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_EvenCostCards_name",
+      "client_Formats_Standard_name"
+    ]
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "08SI037T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SI037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SI037-full.png"
+      }
+    ],
+    "regions": [
+      "シャドウ<nobr>アイル</nobr>"
+    ],
+    "regionRefs": [
+      "ShadowIsles"
+    ],
+    "attack": 5,
+    "cost": 6,
+    "health": 3,
+    "description": "このカードをプレイするには、味方を1体キルする。\r\n召喚時、<link=card.summon><style=AssociatedCard>千爪のデスワインダー</style></link>を1体召喚する。",
+    "descriptionRaw": "このカードをプレイするには、味方を1体キルする。\r\n召喚時、千爪のデスワインダーを1体召喚する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "亡霊犬は逃げ出した獲物のにおいを決して忘れない。そうして追い詰められた獲物は、やがて更なる絶望と出会う。",
+    "artistName": "Xavier Leroux",
+    "name": "黒鉄の亡霊犬",
+    "cardCode": "08SI037",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "レア",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": true,
+    "set": "Set8",
+    "formats": [
+      "コモンオンリー",
+      "エターナル",
+      "イーブンコスト",
+      "スタンダード"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_EvenCostCards_name",
+      "client_Formats_Standard_name"
+    ]
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "08BW028T1",
       "08BW028T2",
@@ -2739,8 +3154,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08SI018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08SI018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SI018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SI018-full.png"
       }
     ],
     "regions": [
@@ -2794,8 +3209,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BC005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BC005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BC005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BC005-full.png"
       }
     ],
     "regions": [
@@ -2844,8 +3259,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BC002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BC002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BC002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BC002-full.png"
       }
     ],
     "regions": [
@@ -2899,8 +3314,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BC006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08BC006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BC006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BC006-full.png"
       }
     ],
     "regions": [
@@ -2953,8 +3368,56 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08SH004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08SH004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BC004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08BC004-full.png"
+      }
+    ],
+    "regions": [
+      "バンドル<nobr>シティ</nobr>"
+    ],
+    "regionRefs": [
+      "BandleCity"
+    ],
+    "attack": 9,
+    "cost": 9,
+    "health": 9,
+    "description": "<link=vocab.Play><style=Vocab>プレイ</style></link>: <link=vocab.Titanic><style=Vocab>タイタン</style></link>のフォロワーを1枚<link=vocab.Manifest><style=Vocab>選定</style></link>し、そのステータスを1|1に、コストを0にする。 ",
+    "descriptionRaw": "プレイ: タイタンのフォロワーを1枚選定し、そのステータスを1|1に、コストを0にする。 ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「ああ、ポルティアばあさんのことならよく知ってるよ。ちょっとおかしなところはあるけど、どんな場所へもポータルを繋げてくれるんだ。あの尻尾をちょちょいと振れば、気付いた時には新しい場所に立ってるのさ！」<br>- ポータル開拓者",
+    "artistName": "Bubble Cat",
+    "name": "風変わりなポルティア",
+    "cardCode": "08BC004",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "エピック",
+    "rarityRef": "Epic",
+    "subtypes": [
+      "ドラゴン"
+    ],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": true,
+    "set": "Set8",
+    "formats": [
+      "エターナル",
+      "スタンダード"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SH004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SH004-full.png"
       }
     ],
     "regions": [
@@ -3001,8 +3464,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08SH005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08SH005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SH005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SH005-full.png"
       }
     ],
     "regions": [
@@ -3049,8 +3512,166 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08IO010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08IO010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08SH002-full.png"
+      }
+    ],
+    "regions": [
+      "シュリーマ"
+    ],
+    "regionRefs": [
+      "Shurima"
+    ],
+    "attack": 9,
+    "cost": 5,
+    "health": 6,
+    "description": "このユニットをプレイするには、合計3回、味方をキルするかマナジェムを破壊する。",
+    "descriptionRaw": "このユニットをプレイするには、合計3回、味方をキルするかマナジェムを破壊する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "それは砂中の遥か深くに潜み、同族であるゼル＝サイをいとも容易く捕食する。その巨体にかかってしまえば、捕食者であるはずのゼル=サイも、ただの獲物へと成り下がる。その大きさは砂丘を丸ごと呑み込んでしまうほどだと言うが、目撃記録は極めて少ない。目撃記録の少なさは、即ち生きて帰った目撃者の少なさであり、この噂が事実であることの証左と言えるだろう。 ",
+    "artistName": "Envar Studio",
+    "name": "砂丘を呑む捕食者",
+    "cardCode": "08SH002",
+    "keywords": [
+      "スペルシールド",
+      "フィアサム"
+    ],
+    "keywordRefs": [
+      "SpellShield",
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "エピック",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": true,
+    "set": "Set8",
+    "formats": [
+      "エターナル",
+      "スタンダード"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "08IO019T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08IO019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08IO019-full.png"
+      }
+    ],
+    "regions": [
+      "アイオニア"
+    ],
+    "regionRefs": [
+      "Ionia"
+    ],
+    "attack": 3,
+    "cost": 4,
+    "health": 3,
+    "description": "召喚時、<link=card.summon><style=AssociatedCard>アドネアの鳥見番</style></link>を召喚する。",
+    "descriptionRaw": "召喚時、アドネアの鳥見番を召喚する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「世界は教訓に溢れている。よく覚えておくんだよ。過ぎ行く季節があるのなら、喜んで送り出すべきなんだ。それは新たな季節の到来でもあるのだからね」",
+    "artistName": "Envar Studio",
+    "name": "誠実なるアドネア",
+    "cardCode": "08IO019",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "レア",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": true,
+    "set": "Set8",
+    "formats": [
+      "コモンオンリー",
+      "エターナル",
+      "イーブンコスト",
+      "スタンダード"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_EvenCostCards_name",
+      "client_Formats_Standard_name"
+    ]
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08IO019T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08IO019T1-full.png"
+      }
+    ],
+    "regions": [
+      "アイオニア"
+    ],
+    "regionRefs": [
+      "Ionia"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=keyword.Support><style=Keyword>サポート</style></link>: このラウンド中、このユニットがサポートする味方のステータスまで、このユニットを成長させる。",
+    "descriptionRaw": "サポート: このラウンド中、このユニットがサポートする味方のステータスまで、このユニットを成長させる。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「ほらそこ！パパの子たちがまた孵化してる！」<br>「わっ、すごい！なんでこんなにたくさん産まれるんだろう？」<br>「アーリャ、毎年同じこと言ってるね」<br>「だって、誰も教えてくれないんだもん！」<br>「しーっ…静かに。ヒナたちがビックリしちゃうだろ。ほら、そんなことより何羽孵ったのか数えて。今年もたくさん名前を考えないと」",
+    "artistName": "Envar Studio",
+    "name": "アドネアの鳥見番",
+    "cardCode": "08IO019T1",
+    "keywords": [
+      "サポート"
+    ],
+    "keywordRefs": [
+      "Support"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "なし",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": false,
+    "set": "Set8",
+    "formats": [
+      "コモンオンリー",
+      "エターナル",
+      "イーブンコスト",
+      "スタンダード"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_EvenCostCards_name",
+      "client_Formats_Standard_name"
+    ]
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08IO010-full.png"
       }
     ],
     "regions": [
@@ -3101,8 +3722,54 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08MT027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08MT027-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08MT009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08MT009-full.png"
+      }
+    ],
+    "regions": [
+      "ターゴン"
+    ],
+    "regionRefs": [
+      "Targon"
+    ],
+    "attack": 4,
+    "cost": 5,
+    "health": 5,
+    "description": "このユニットの召喚時、または<link=vocab.Titanic><style=Vocab>タイタン</style></link>の味方を召喚する時、ネクサスの体力を3回復する。",
+    "descriptionRaw": "このユニットの召喚時、またはタイタンの味方を召喚する時、ネクサスの体力を3回復する。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "単なる獣に過ぎなかったそれは、祝福を受けて守護者となった。その大恩に報いるため、聖地を目指して霊峰を登る者たちを、守護者は今日も護り続ける。",
+    "artistName": "Envar Studio",
+    "name": "朧気なる守護者",
+    "cardCode": "08MT009",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "レア",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ユニット",
+    "collectible": true,
+    "set": "Set8",
+    "formats": [
+      "エターナル",
+      "スタンダード"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08MT027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08MT027-full.png"
       }
     ],
     "regions": [
@@ -3149,8 +3816,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08MT025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/4_10_0/set8/ja_jp/img/cards/08MT025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08MT025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/4_11_0/set8/ja_jp/img/cards/08MT025-full.png"
       }
     ],
     "regions": [
